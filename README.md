@@ -1,5 +1,5 @@
-# InnovationSummit2025
-Resources for learning more about topics discussed in the talk 'Less chaos, more impact: a people-first perspective on innovation and technology'  
+# Digital Overload Resources
+Resources for learning more about topics discussed in the talk 'Digital Overload: Reclaiming Focus in an Always-On World'  
 
 Cal Newport - https://calnewport.com/  
 
